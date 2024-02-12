@@ -1,1 +1,1 @@
-This GitHub account has been set up for collaboration of FAIRER Data Management tools.
+This GitHub account has been set up for collaborative development of FAIRER Data Management tools.
