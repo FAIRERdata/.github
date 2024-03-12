@@ -17,12 +17,13 @@ CINECA (2023). Deliverable D7.3: [First recommendations for implementation in IT
 
 NASEM (2019). [Reproducibility and Replicability in Science](https://doi.org/10.17226/25303). National Academies of Sciences, Engineering, and Medicine. 
 # Author statement
-This GitHub site is developed and maintained by Claire C. Austin and Dominique Charles who work at Environment and Climate Change Canada.
+This GitHub site is developed and maintained by Dominique Charles and Claire C. Austin who work at Environment and Climate Change Canada.
 
-Cite as: Claire C. Austin and Dominique Charles (2024). FAIRER data management tools: Github repository. https://github.com/FAIRERdata 
+Cite as: Dominique Charles and Claire C. Austin* (2024). FAIRER data management tools: Github repository. https://github.com/FAIRERdata 
 
 Disclaimer:  All views and opinions expressed are those of the co-authors, and do not necessarily reflect the official policy or position of their respective employers, or of any government, agency, or organization.
 
 Crown Copyright. Licence: Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
 
 Note: Individual tools on this site may have a different author statement, and different copyright/licence.
+*Corresponding author
