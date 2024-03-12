@@ -1,4 +1,5 @@
 ![FAIRER logo](https://github.com/FAIRERdata/FAIRERdata/assets/159581967/601244a7-c159-4fcd-9966-20713cd14d3c)
+Logo adapted by Dominique Charles from: Sangya Pundir [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 # Purpose
 This GitHub site has been set up for development of FAIRER Data Management tools.
 # FAIRER
@@ -12,8 +13,6 @@ Ethical data means that: (a) Data are collected and managed in compliance with r
 ## Reproducible  
 Reproducible data and code means that the final data and code are computationally reproducible within some tolerance interval or defined limits of precision and accuracy, i.e. a 3rd party will be able to verify the data lineage and processing, reanalyze the data and obtain consistent computational results using the same input raw data, computational steps, methods, computer code, and conditions of analysis in order to determine if the same result emerges from the reprocessing and reanalysis. “Same result” can mean different things in different contexts: identical measures in a fully deterministic context, the same numeric results but differing in some irrelevant detail, statistically similar results in a non-deterministic context, or validation of a hypothesis. All data and code are made available for 3rd-party verification of reproducibility. Note that reproducibility is a different concept from replicability. In the latter case, the final published data are linked to sufficiently detailed methods and information for a 3rd-party to be able to verify the results based on the independent collection of new raw data using similar or different methods but leading to comparable results. See, also, [NASEM 2019](https://sites.nationalacademies.org/sites/reproducibility-in-science/index.htm).  
 # References
-Logo adapted by Dominique Charles from: Sangya Pundir [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-
 CINECA (2023). Deliverable D7.3: [First recommendations for implementation in IT Framework, including a Data Management Plan](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzenodo.org%2Frecord%2F7680755%23.ZEf45_zMJnI&data=05%7C01%7CClaire.Austin%40ec.gc.ca%7Cef6dac7f47e147e7ff9e08dbbae47574%7C740c5fd36e8b41769cc9454dbe4e62c4%7C0%7C0%7C638309263223423101%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gDg3fNP1O7EaG7HHge%2BP5RQ5xRPCvBo2%2FeG7YeBmkrI%3D&reserved=0). Common Infrastructure for National Cohorts in Europe, Canada, and Africa. 
 
 NASEM (2019). [Reproducibility and Replicability in Science](https://doi.org/10.17226/25303). National Academies of Sciences, Engineering, and Medicine. 
