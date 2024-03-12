@@ -21,9 +21,10 @@ This GitHub site is developed and maintained by Dominique Charles and Claire C. 
 
 Cite as: Dominique Charles and Claire C. Austin* (2024). FAIRER data management tools: Github repository. https://github.com/FAIRERdata 
 
+*Corresponding author: Claire C. Austin
+
 Disclaimer:  All views and opinions expressed are those of the co-authors, and do not necessarily reflect the official policy or position of their respective employers, or of any government, agency, or organization.
 
 Crown Copyright. Licence: Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
 
 Note: Individual tools on this site may have a different author statement, and different copyright/licence.
-*Corresponding author
