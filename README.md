@@ -31,6 +31,6 @@ Disclaimer:  All views and opinions expressed are those of the co-authors, and d
 
 Crown Copyright. Licence: Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
 
-Logo adapted by Dominique Charles from: Sangya Pundir [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+Logo adapted by Dominique Charles from:  Sangya Pundir, [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 Note: Individual tools on this site may have a different author statement, and different copyright/licence.
