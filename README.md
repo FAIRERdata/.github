@@ -1,6 +1,5 @@
 ![FAIRER logo](https://github.com/FAIRERdata/FAIRERdata/assets/159581967/601244a7-c159-4fcd-9966-20713cd14d3c)
 
-Logo adapted by Dominique Charles from: Sangya Pundir [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 # Purpose
 This GitHub site has been set up for development of FAIRER Data Management tools.
 # FAIRER
@@ -31,5 +30,7 @@ This GitHub site is developed and maintained by Dominique Charles and Claire C. 
 Disclaimer:  All views and opinions expressed are those of the co-authors, and do not necessarily reflect the official policy or position of their respective employers, or of any government, agency, or organization.
 
 Crown Copyright. Licence: Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
+
+Logo adapted by Dominique Charles from: Sangya Pundir [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 Note: Individual tools on this site may have a different author statement, and different copyright/licence.
