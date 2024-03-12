@@ -16,3 +16,12 @@ Reproducible data and code means that the final data and code are computationall
 CINECA (2023). Deliverable D7.3: [First recommendations for implementation in IT Framework, including a Data Management Plan](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzenodo.org%2Frecord%2F7680755%23.ZEf45_zMJnI&data=05%7C01%7CClaire.Austin%40ec.gc.ca%7Cef6dac7f47e147e7ff9e08dbbae47574%7C740c5fd36e8b41769cc9454dbe4e62c4%7C0%7C0%7C638309263223423101%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gDg3fNP1O7EaG7HHge%2BP5RQ5xRPCvBo2%2FeG7YeBmkrI%3D&reserved=0). Common Infrastructure for National Cohorts in Europe, Canada, and Africa. 
 
 NASEM (2019). [Reproducibility and Replicability in Science](https://doi.org/10.17226/25303). National Academies of Sciences, Engineering, and Medicine. 
+# Author statement
+This GitHub site is developed and maintained by Claire C. Austin and Dominique Charles who work at Environment and Climate Change Canada.
+Cite as: Claire C. Austin and Dominique Charles (2024). FAIRER data management tools: Github repository. https://github.com/FAIRERdata 
+
+Disclaimer:  All views and opinions expressed are those of the co-authors, and do not necessarily reflect the official policy or position of their respective employers, or of any government, agency, or organization.
+
+Crown Copyright. Licence: Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
+
+Note: Individual tools on this site may have a different author statement, and a different copyright/licence.
