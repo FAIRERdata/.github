@@ -19,7 +19,7 @@ NASEM (2019). [Reproducibility and Replicability in Science](https://doi.org/10.
 # Author statement
 This GitHub site is developed and maintained by Dominique Charles and Claire C. Austin who work at Environment and Climate Change Canada.
 
-Cite as: Dominique Charles and Claire C. Austin* (2024). FAIRER data management tools: Github repository. https://github.com/FAIRERdata 
+Cite as: Dominique Charles and Claire C. Austin* (2024). FAIRER data management: Github repository. https://github.com/FAIRERdata 
 
 *Corresponding author: Claire C. Austin
 
