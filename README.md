@@ -29,7 +29,7 @@ This GitHub site is developed and maintained by Dominique Charles and Claire C. 
 
 Disclaimer:  All views and opinions expressed are those of the co-authors, and do not necessarily reflect the official policy or position of their respective employers, or of any government, agency, or organization.
 
-Crown Copyright. Licence: Creative Commons CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0/
+Crown Copyright. Licence: Creative Commons [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Logo adapted by Dominique Charles from:  Sangya Pundir, [license CC BY SA]([https://pages.github.com/](https://creativecommons.org/licenses/by-sa/4.0/deed.en)https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
