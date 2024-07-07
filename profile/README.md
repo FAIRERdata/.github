@@ -15,9 +15,9 @@ Reproducible data and code means that the final data and code are computationall
 # Evidence of Success
 For science programs, if our **mission** is to collect and manage world-class scientific data, our **vision** being that scientific data are treated as a publicly available national asset, if our **goal** is state-of-the-art scientific data management, stewardship, and infrastructure that maximizes the public value of our scientific data, if our work is grounded in **values** of scientific integrity and excellence and principles of Open Science by-default-by-design, and if our work is agile, enabling, trusted, purposeful, and user-centred, then the **evidence of success** of the mission is **tidy, FAIRER data**.
 # References
-CINECA (2023). Deliverable D7.3: [First recommendations for implementation in IT Framework, including a Data Management Plan](https://zenodo.org/records/7680755#.ZEf45_zMJnI). Common Infrastructure for National Cohorts in Europe, Canada, and Africa. 
+Austin CC (2020). [The Open Science Ecosystem: A Systematic Framework Anchored in Values, Ethics, and FAIRER Data](https://doi.org/10.2139/ssrn.3654298). SSRN Preprint. 
 
-GC (2019). [Directive on automated decision-making](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592). Government of Canada, Treasury Board Secretariat.
+CINECA (2023). Deliverable D7.3: [First recommendations for implementation in IT Framework, including a Data Management Plan](https://zenodo.org/records/7680755#.ZEf45_zMJnI). Common Infrastructure for National Cohorts in Europe, Canada, and Africa. 
 
 NASEM (2019). [Reproducibility and Replicability in Science](https://doi.org/10.17226/25303). National Academies of Sciences, Engineering, and Medicine. 
 # Author statement
