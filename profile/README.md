@@ -31,6 +31,8 @@ Disclaimer:  All views and opinions expressed are those of the co-authors, and d
 
 Licence: Creative Commons [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
+© His Majesty the King in right of Canada.
+
 Logo adapted by Dominique Charles from:  [Sangya Pundir](https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg), [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Note: Individual tools on this site may have a different author statement, and different copyright/licence.
